@@ -1,10 +1,10 @@
 # Slim PHP with Swoole - Boilerplate Project
 
-####Light-weight boilerplate for simple projects that don't want the bloat - Designed to promote pure php containers that don't need nginx or apache.
+#### Light-weight boilerplate for simple projects that don't want the bloat - Designed to promote pure php containers that don't need nginx or apache.
 
 ###
 
-######In order to run locally, you will first need to install Swoole: https://www.swoole.co.uk/docs/get-started/installation
+##### *In order to run locally, you will first need to install Swoole: https://www.swoole.co.uk/docs/get-started/installation
 
 Then, you can run the project locally by running the following command from project root:
 
